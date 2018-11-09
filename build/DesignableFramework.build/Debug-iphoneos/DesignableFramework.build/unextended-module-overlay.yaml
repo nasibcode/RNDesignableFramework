@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/nasib/Library/Developer/Xcode/DerivedData/DesignableFramework-geydtuhihvvmulfpefmdbpgeaexa/Build/Products/Debug-iphoneos/DesignableFramework.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/nasib/Workspace/Demo-Project/iOS Demos/DesignableFramework/build/DesignableFramework.build/Debug-iphoneos/DesignableFramework.build/unextended-module.modulemap',
+    }]
+  }]
+}

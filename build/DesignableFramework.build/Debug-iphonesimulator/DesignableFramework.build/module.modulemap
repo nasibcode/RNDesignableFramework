@@ -1,0 +1,11 @@
+framework module DesignableFramework {
+  umbrella header "DesignableFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module DesignableFramework.Swift {
+    header "DesignableFramework-Swift.h"
+    requires objc
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "059ac90766aecc1af2fc4d797fffe476"
+build_time: [1540800053, 386863000]
+inputs:
+  "/Users/nasib/Workspace/Demo-Project/iOS Demos/DesignableFramework/DesignableFramework/DesignableView.swift": [1540797147, 0]
+  "/Users/nasib/Workspace/Demo-Project/iOS Demos/DesignableFramework/DesignableFramework/DesignableProtocol.swift": [1540798493, 0]

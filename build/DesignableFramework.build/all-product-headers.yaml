@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/nasib/Library/Developer/Xcode/DerivedData/DesignableFramework-geydtuhihvvmulfpefmdbpgeaexa/Build/Products/Debug-iphonesimulator/DesignableFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DesignableFramework-Swift.h",
+          'external-contents': "/Users/nasib/Library/Developer/Xcode/DerivedData/DesignableFramework-geydtuhihvvmulfpefmdbpgeaexa/Build/Products/Debug-iphonesimulator/DesignableFramework.framework/Headers/DesignableFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DesignableFramework.h",
+          'external-contents': "/Users/nasib/Workspace/Demo-Project/iOS Demos/DesignableFramework/DesignableFramework/DesignableFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nasib/Library/Developer/Xcode/DerivedData/DesignableFramework-geydtuhihvvmulfpefmdbpgeaexa/Build/Products/Debug-iphonesimulator/DesignableFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nasib/Workspace/Demo-Project/iOS Demos/DesignableFramework/build/DesignableFramework.build/Debug-iphonesimulator/DesignableFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

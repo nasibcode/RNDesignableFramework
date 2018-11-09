@@ -1,0 +1,10 @@
+framework module DesignableFramework {
+  umbrella header "DesignableFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module DesignableFramework.__Swift {
+    exclude header "DesignableFramework-Swift.h"
+}
