@@ -22,7 +22,7 @@ extension DesignableProtocol where Self: UIView {
     
     var cornerRadious: CGFloat {
         get{
-            return 0
+            return 1
         }
         set{
             self.layer.cornerRadius = 0
