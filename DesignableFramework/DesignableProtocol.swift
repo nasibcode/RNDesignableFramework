@@ -25,7 +25,7 @@ extension DesignableProtocol where Self: UIView {
             return 1
         }
         set{
-            self.layer.cornerRadius = 2
+            self.layer.cornerRadius = 20
         }
     }
     var border: CGFloat {
